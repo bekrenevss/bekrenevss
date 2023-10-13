@@ -1,5 +1,5 @@
 - Hi, I’m a Data Engineer.
-- I'm interested in to help companies build the Data Warehouse.
+- I'm interested in helping companies build their data warehouses.
 - You can reach me by email bekrenevss@gmail.com or linkedin https://www.linkedin.com/in/semen-bekrenev
 
 <!---
